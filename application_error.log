@@ -1,0 +1,4 @@
+2020-10-30 14:23:19 [http-nio-8080-exec-1] ERROR c.e.logback.utils.ExceptionUtils - Error message in controller
+2020-10-30 14:23:19 [http-nio-8080-exec-1] ERROR c.e.logback.utils.ExceptionUtils - error message logging from hello service
+2020-10-30 14:23:43 [http-nio-8080-exec-4] ERROR c.e.logback.utils.ExceptionUtils - Error message from home controller
+2020-10-30 14:23:43 [http-nio-8080-exec-4] ERROR c.e.logback.utils.ExceptionUtils - error message logging from home service
